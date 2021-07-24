@@ -1,0 +1,2 @@
+set "JAVA_OPTS=%JAVA_OPTS% -javaagent:C:/kafka-workspace/kafka-monitoring/jmx_prometheus_javaagent-0.16.1.jar=7171:C:/kafka-workspace/kafka-monitoring/tomcat.yml"
+set "CATALINA_OPTS=%CATALINA_OPTS% -Dfile.encoding=UTF-8 -Djava.locale.providers=JRE,COMPAT,CLDR -Djava.net.preferIPv4Stack=true -Duser.timezone=GMT -Xms2560m -Xmx2560m -XX:MaxNewSize=1536m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m -XX:NewSize=1536m -XX:SurvivorRatio=7 -Dliferay.node=Liferay-Node1"
