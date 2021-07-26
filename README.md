@@ -2,5 +2,5 @@
 
 ### Documentation 
 * [http://www.liferaysavvy.com/2021/07/liferay-portal-monitoring-with.html](http://www.liferaysavvy.com/2021/07/liferay-portal-monitoring-with.html) 
-* [http://www.liferaysavvy.com/2021/07/liferay-portal-monitoring-with_26.html](http://www.liferaysavvy.com/2021/07/liferay-portal-monitoring-with_26.html)
+* [Liferay Portal Monitoring with Prometheus and Grafana](http://www.liferaysavvy.com/2021/07/liferay-portal-monitoring-with_26.html)
  
